@@ -17,7 +17,7 @@ npm run build
 <li>Material UI</li>
 <li>React Redux</li>
 <li>Redux-Saga</li>
-
+<li>Vercel</li>
 ## Testing
 <p>It will be implemented in the future.</p>
 
