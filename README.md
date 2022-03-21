@@ -18,6 +18,7 @@ npm run build
 <li>React Redux</li>
 <li>Redux-Saga</li>
 <li>Vercel</li>
+
 ## Testing
 <p>It will be implemented in the future.</p>
 
